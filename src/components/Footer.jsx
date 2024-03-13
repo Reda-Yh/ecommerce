@@ -20,7 +20,7 @@ const Footer = () => {
             >Posts</NavLink>
         </nav>
         <div className="copyrights">
-          &copy; 2022 <Link to="/"> WebStylePress</Link> - All Rights Reserved.
+          &copy; 2024 <Link to="/">Redayh</Link> - All Rights Reserved.
         </div>
       </div>
     </footer>
